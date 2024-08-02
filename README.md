@@ -13,3 +13,5 @@ docker run --name clash \
   clash:1.8.0
 ```
 
+clash-dashboard中的git-log目录为原.git目录可以自行还原，不需要使用则直接删除即可
+
